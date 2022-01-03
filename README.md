@@ -1,7 +1,7 @@
 ### Clone repository into your local environment
 
 ~~~
-git clone git
+git clone https://github.com/MooCot/mvp-news-docker.git
 ~~~
 
 REQUIREMENTS
