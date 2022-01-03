@@ -18,19 +18,16 @@ Install docker and essentials:
 Steps
 -------------------------------------
 
-docker-compose up --build
--------------------------------------
-create .env in nvp-news
--------------------------------------
-docker exec -it web bash
--------------------------------------
-exit
-php artisan key:generate (generate app key)
-login in admiminer on pord 6080 and create db
-config laravel .env for db
-docker exec -it web bash
-php artisan migrate
-exit
+[docker-compose up --build]
+[create .env in nvp-news]
+[docker exec -it web bash]
+[exit]
+[php artisan key:generate (generate app key)]
+[login in admiminer on pord 6080 and create db]
+[config laravel .env for db]
+[docker exec -it web bash]
+[php artisan migrate]
+[exit]
 
 Postman Link
 -------------------------------------
