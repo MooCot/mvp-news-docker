@@ -6,7 +6,7 @@ git clone https://github.com/MooCot/mvp-news-docker.git
 
 REQUIREMENTS
 
-[laravel] https://laravel.com/docs/8.x/installation
+[laravel] (https://laravel.com/docs/8.x/installation)
 
 Install docker and essentials:
 [Docker CE](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/)
@@ -27,7 +27,7 @@ login in admiminer on pord 6080 and create db\
 config laravel .env for db\
 docker exec -it web bash\
 php artisan migrate\
-exit\
+exit
 
 Postman Link
 -------------------------------------
