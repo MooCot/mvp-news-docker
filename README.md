@@ -36,3 +36,7 @@ https://www.getpostman.com/collections/02e3bddbf69e6ee97d44
 GitHub Link
 -------------------------------------
 git clone https://github.com/MooCot/mvp-news.git
+
+Site Link
+-------------------------------------
+https://developstoday-slava-test.herokuapp.com
